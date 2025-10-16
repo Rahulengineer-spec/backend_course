@@ -25,6 +25,16 @@ This repository is an educational resource for mastering **backend development u
 - Deployment process and environment setup
 
 ---
+## Contact Us
+
+- [Visit my website]: https://techardent.netlify.app/
+- [Linkedin]: https://www.linkedin.com/in/rahulardentian/
+- [Youtube Channel]: https://www.youtube.com/@trendstalk1677
+- [Twitter]: https://x.com/programmerchoi1?t=cPlE3BD99C6UT1vAj2ueQQ&s=09
+- [Replit]: https://replit.com/@Rahuleng-spec
+- [Instagram]: https://www.instagram.com/techardent_/
+
+---
 
 
 
